@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "University of Milano-Bicocca\nMaster’s degree programmes in International Economics and Global Management\n2024/25, 2025/26, 2026/27\nTeaching activities in inferential statistics, including lectures and practical applications.\n\n\n\nUniversity of Milano-Bicocca\nMSc in Marketing and Global Markets\n2024/25\nTeaching activities in advanced statistical methods.\n\n\n\nUniversity of Milano-Bicocca\nTeaching laboratory activities."
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "",
+    "text": "University of Milano-Bicocca\nMaster’s degree programmes in International Economics and Global Management\n2024/25, 2025/26, 2026/27\nTeaching activities in inferential statistics, including lectures and practical applications.\n\n\n\nUniversity of Milano-Bicocca\nMSc in Marketing and Global Markets\n2024/25\nTeaching activities in advanced statistical methods.\n\n\n\nUniversity of Milano-Bicocca\nTeaching laboratory activities."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Francesco Barile",
+    "section": "",
+    "text": "Research Fellow in Statistics\nDepartment of Economics, Management and Statistics\nUniversità degli Studi di Milano-Bicocca\nMy research interests are in Bayesian statistics, Bayesian nonparametrics, statistical network analysis, and computational statistics.\nMy research focuses on the development of Bayesian methods for the analysis of complex network data, with particular emphasis on nonparametric models and scalable computational methods."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -56,11 +77,11 @@
     "text": "Academic service\nI have served as a referee for journals including Computational Statistics & Data Analysis and the IEEE Journal of Biomedical and Health Informatics."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Francesco Barile",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "Research Fellow in Statistics\nDepartment of Economics, Management and Statistics\nUniversità degli Studi di Milano-Bicocca\nMy research interests are in Bayesian statistics, Bayesian nonparametrics, statistical network analysis, and computational statistics.\nMy research focuses on the development of Bayesian methods for the analysis of complex network data, with particular emphasis on nonparametric models and scalable computational methods."
+    "text": "You can download my full curriculum vitae in PDF format:\nDownload my CV (PDF)"
   },
   {
     "objectID": "research.html",
@@ -96,19 +117,5 @@
     "title": "Research",
     "section": "Software",
     "text": "Software\nI develop computational tools in R and C++ for Bayesian inference and statistical network analysis.\nMy research software and reproducible code are available on GitHub."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "University of Milano-Bicocca\nMaster’s degree programmes in International Economics and Global Management\n2024/25, 2025/26, 2026/27\nTeaching activities in inferential statistics, including lectures and practical applications.\n\n\n\nUniversity of Milano-Bicocca\nMSc in Marketing and Global Markets\n2024/25\nTeaching activities in advanced statistical methods.\n\n\n\nUniversity of Milano-Bicocca\nTeaching laboratory activities."
-  },
-  {
-    "objectID": "teaching.html#teaching-experience",
-    "href": "teaching.html#teaching-experience",
-    "title": "Teaching",
-    "section": "",
-    "text": "University of Milano-Bicocca\nMaster’s degree programmes in International Economics and Global Management\n2024/25, 2025/26, 2026/27\nTeaching activities in inferential statistics, including lectures and practical applications.\n\n\n\nUniversity of Milano-Bicocca\nMSc in Marketing and Global Markets\n2024/25\nTeaching activities in advanced statistical methods.\n\n\n\nUniversity of Milano-Bicocca\nTeaching laboratory activities."
   }
 ]
