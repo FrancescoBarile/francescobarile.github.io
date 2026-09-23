@@ -1,7 +1,0 @@
----
-title: "CV"
----
-
-You can download my full curriculum vitae in PDF format:
-
-[Download my CV (PDF)](files/Francesco_Barile_CV.pdf)

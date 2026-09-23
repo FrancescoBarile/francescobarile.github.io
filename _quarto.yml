@@ -7,15 +7,13 @@ website:
 
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: about.qmd
         text: About
       - href: research.qmd
         text: Research
       - href: teaching.qmd
         text: Teaching
-      - href: CV.qmd
+      - href: cv.qmd
         text: CV
 
   search: false
@@ -26,4 +24,4 @@ format:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: false
