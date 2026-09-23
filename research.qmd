@@ -1,0 +1,72 @@
+---
+title: "Research"
+---
+
+## Research interests
+
+My research interests lie at the intersection of Bayesian statistics,
+Bayesian nonparametrics, statistical network analysis, and computational
+statistics.
+
+I am particularly interested in developing flexible Bayesian models for
+complex and structured data, with a focus on network data and scalable
+computational methods.
+
+## Current research
+
+### Bayesian modeling of network data
+
+My research focuses on Bayesian nonparametric methods for modeling
+heterogeneous populations of networks. The goal is to develop flexible
+models that can capture both common structural features and
+heterogeneity across networks.
+
+In this context, I develop Bayesian models based on nonparametric
+mixture constructions, together with computational methods for
+posterior inference and applications to real network data.
+
+### Longitudinal brain network analysis
+
+I am also working on Bayesian methods for the analysis of longitudinal
+brain networks, with applications to neurodegenerative diseases.
+
+The research aims to model changes in brain network topology over time
+while accounting for heterogeneity across individuals and avoiding the
+need to fix the number of network communities in advance.
+
+## Publications
+
+### Bayesian Nonparametric Modeling of Heterogeneous Populations of Networks
+
+**Francesco Barile, Luis E. Lunagómez, Bernardo Nipoti**
+
+*Bayesian Analysis*, 2026.
+
+This work develops a Bayesian nonparametric framework for modeling
+heterogeneous populations of networks. The model provides a flexible
+representation of network populations while allowing for the
+identification of representative network structures and patterns of
+heterogeneity.
+
+[DOI](https://doi.org/10.1214/26-BA1588)
+
+### Control Variate-based Stochastic Sampling from the Probability Simplex
+
+**Francesco Barile, coauthor**
+
+*Statistics and Computing*.
+
+This work develops a variance-reduced stochastic sampling method for
+probability-simplex distributions, with applications to Bayesian
+models such as latent Dirichlet allocation and mixed-membership
+stochastic block models.
+
+[arXiv](https://arxiv.org/abs/2410.00845)
+
+## Software
+
+I develop computational tools in R and C++ for Bayesian inference and
+statistical network analysis.
+
+My research software and reproducible code are available on
+[GitHub](https://github.com/FrancescoBarile).

@@ -1,0 +1,59 @@
+---
+title: "About"
+---
+
+## About me
+
+I am a Research Fellow in Statistics at the Department of Economics, Management and Statistics, University of Milano-Bicocca.
+
+I received my PhD in Statistics from the University of Milano-Bicocca in February 2025. My doctoral thesis, *Advances in Bayesian Methods: Nonparametric Network Modeling and Scalable Computations*, focused on Bayesian nonparametric methods for network data and scalable Bayesian computation.
+
+My research interests include Bayesian statistics, Bayesian nonparametrics, statistical network analysis, computational statistics, and Bayesian modeling of complex data.
+
+## Education
+
+### PhD in Statistics
+
+**University of Milano-Bicocca**  
+2020–2025
+
+Thesis: *Advances in Bayesian Methods: Nonparametric Network Modeling and Scalable Computations*
+
+Supervisor: Prof. Bernardo Nipoti
+
+### MSc in Finance and Insurance
+
+**University of Calabria**
+
+## Academic positions
+
+### Research Fellow in Statistics
+
+**University of Milano-Bicocca**  
+2025–present
+
+Research on Bayesian methods for related clinical studies and complex data.
+
+## Research visits
+
+### University of Lancaster
+
+Research visit supported by the Extra-UE mobility programme.
+
+## Research interests
+
+- Bayesian statistics
+- Bayesian nonparametrics
+- Statistical network analysis
+- Bayesian network models
+- Computational statistics
+- Mixture models
+- High-dimensional and complex data
+
+## Teaching
+
+I have taught and assisted courses in statistics at the master's level, including *Inferential Statistics* and *Advanced Statistics*, with a particular focus on applications in economics and management.
+
+## Academic service
+
+I have served as a referee for journals including *Computational Statistics & Data Analysis* and the *IEEE Journal of Biomedical and Health Informatics*.

@@ -1,0 +1,37 @@
+---
+title: "Francesco Barile"
+
+about:
+  template: solana
+  image: images/francesco_barile.jpg
+  image-width: 15em
+
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:francesco.barile@unimib.it
+
+    - icon: google
+      text: Google Scholar
+      href: INSERT_GOOGLE_SCHOLAR_URL
+
+    - icon: orcid
+      text: ORCID
+      href: INSERT_ORCID_URL
+
+    - icon: github
+      text: GitHub
+      href: https://github.com/FrancescoBarile
+---
+
+Research Fellow in Statistics  
+Department of Economics, Management and Statistics  
+Università degli Studi di Milano-Bicocca
+
+My research interests are in Bayesian statistics, Bayesian
+nonparametrics, statistical network analysis, and computational
+statistics.
+
+My research focuses on the development of Bayesian methods for the
+analysis of complex network data, with particular emphasis on
+nonparametric models and scalable computational methods.
