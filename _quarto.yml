@@ -8,7 +8,7 @@ website:
   navbar:
     left:
       - href: about.qmd
-        text: About
+        text: About me
       - href: research.qmd
         text: Research
       - href: teaching.qmd

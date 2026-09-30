@@ -1,8 +1,6 @@
 ---
-title: "About"
+title: "About me"
 ---
-
-## About me
 
 I am a Research Fellow in Statistics at the Department of Economics, Management and Statistics, University of Milano-Bicocca.
 
