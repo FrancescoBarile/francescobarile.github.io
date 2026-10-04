@@ -1,0 +1,43 @@
+---
+title: "Publications"
+---
+
+## Peer-reviewed journal articles 
+
+**Barile, F.**, Lunagómez, S., & Nipoti, B. (2025).  
+*Bayesian Nonparametric Modeling of Heterogeneous Populations of Networks.*  
+*Bayesian Analysis*. Advance Publication.
+[DOI](https://doi.org/10.1214/26-BA1588) ·
+[Code](https://github.com/FrancescoBarile/DPM_CER)
+
+
+## Conference Proceedings
+
+**Barile, F.**, Lunagómez, S., & Nipoti, B. (2025).  
+*Clustering Multiple Network Data with an Application to the EU Food Trade Market.*  
+In A. Pollice & P. Mariani (Eds.), *Methodological and Applied Statistics and Demography II: SIS 2024, Short Papers, Solicited Sessions*, pp. 68–72. Springer.
+[DOI](https://doi.org/10.1007/978-3-031-64350-7)
+
+
+
+**Barile, F.**, Dallari, S., Pacifici, C., & Grün, B. (2025).  
+*Assessing Neuron Response to External Stimuli with a Data-Driven Procedure for Spike Train Extraction and GAMLSS Regressions.*  
+In A. Canale, A. Luati, S. Mazzuco, R. Piccarreta, N. Sartori, P. Secchi (Eds.),
+*Advances in Neural Data Science*, pp. 35–55. Springer.
+[DOI](https://doi.org/10.1007/978-3-031-70638-7_3)
+
+
+## Manuscripts Under Review
+
+**Barile, F.** & Nemeth, C. (2024).  
+*Control Variate-based Stochastic Sampling from the Probability Simplex.*
+[arXiv](https://arxiv.org/abs/2410.00845) ·
+[Code](https://github.com/FrancescoBarile/CV_SCIR)
+
+
+**Barile, F.**, Capozio, S. & Nipoti, B. (2026).  
+*Efficient Bayesian Inference for Multiple Network Data.*
+[arXiv](https://arxiv.org/abs/2610.01532) ·
+[Code](https://github.com/FrancescoBarile/BayesCER)
+
+

@@ -2,56 +2,54 @@
 title: "About me"
 ---
 
-I am a Research Fellow in Statistics at the Department of Economics, Management and Statistics, University of Milano-Bicocca.
+I am a Postdoctoral Research Fellow in Statistics at the Department of Economics, Management and Statistics, University of Milano-Bicocca. 
 
-I received my PhD in Statistics from the University of Milano-Bicocca in February 2025. My doctoral thesis, *Advances in Bayesian Methods: Nonparametric Network Modeling and Scalable Computations*, focused on Bayesian nonparametric methods for network data and scalable Bayesian computation.
+**Project:** [*Joint Bayesian Learning of Related Clinical Studies*](https://bernardonipoti.github.io/JBL.html)
 
-My research interests include Bayesian statistics, Bayesian nonparametrics, statistical network analysis, computational statistics, and Bayesian modeling of complex data.
+**Project PI:** Prof. Bernardo Nipoti, University of Milano-Bicocca  
+
+**Research position funded by:** [Fondazione Cariplo](https://www.obiettivoeuropa.com/bandi/fondazione-cariplo-data-science-for-health)
+
+
 
 ## Education
 
-### PhD in Statistics
+**2020 - 2024**\
+*Ph.D. in Statistics (XXXVI cycle)*, University of Milano-Bicocca, Italy.\
+Supervisor: Prof. Bernardo Nipoti.  
+Thesis: *Advances in Bayesian Methods: Nonparametric Network Modeling and Scalable Computations*.\
+[Thesis repository](https://boa.unimib.it/handle/10281/548962).\
 
-**University of Milano-Bicocca**  
-2020–2025
 
-Thesis: *Advances in Bayesian Methods: Nonparametric Network Modeling and Scalable Computations*
+**2016 - 2019**\
+*M.Sc. in Finance and Insurance*, University of Calabria, Italy.\
+Supervisor: Prof. Arturo Leccadito.  
+Thesis: *Estimating Stochastic Models for Commodity Futures*.  
 
-Supervisor: Prof. Bernardo Nipoti
 
-### MSc in Finance and Insurance
+**2012 - 2015**\
+*B.Sc. in Statistics for Business and Insurance*, University of Calabria, Italy.\
+Supervisor: Prof. Agostino Tarsitano.  
+Thesis: *Wilcoxon Test: Applications in the Medical-Pharmaceutical Field*.  
 
-**University of Calabria**
 
-## Academic positions
 
-### Research Fellow in Statistics
 
-**University of Milano-Bicocca**  
-2025–present
+## Research Visits
 
-Research on Bayesian methods for related clinical studies and complex data.
+**Nov 2023 - Aug 2024**\
+*Visiting Researcher*, Lancaster University, Lancaster, United Kingdom.\
+Supervisor: Prof. Christopher Nemeth.
 
-## Research visits
+**Aug 2018 - Dec 2018**\
+*Visiting Graduate Student (Research Only)*, University of Western Ontario, London, Canada.\
+Supervisor: Prof. Rogemar Mamon.
 
-### University of Lancaster
 
-Research visit supported by the Extra-UE mobility programme.
 
-## Research interests
 
-- Bayesian statistics
-- Bayesian nonparametrics
-- Statistical network analysis
-- Bayesian network models
-- Computational statistics
-- Mixture models
-- High-dimensional and complex data
 
-## Teaching
 
-I have taught and assisted courses in statistics at the master's level, including *Inferential Statistics* and *Advanced Statistics*, with a particular focus on applications in economics and management.
 
-## Academic service
 
-I have served as a referee for journals including *Computational Statistics & Data Analysis* and the *IEEE Journal of Biomedical and Health Informatics*.
+

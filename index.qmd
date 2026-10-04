@@ -10,28 +10,27 @@ about:
     - icon: envelope
       text: Email
       href: mailto:francesco.barile@unimib.it
+      
+    - icon: mortarboard
+      text: Academic webpage
+      href: https://www.unimib.it/francesco-barile
 
     - icon: google
       text: Google Scholar
-      href: INSERT_GOOGLE_SCHOLAR_URL
+      href: https://scholar.google.com/citations?hl=it&user=DYZhCOAAAAAJ&scilu=&scisig=AHwi3ncAAAAAasKCHN7CN8sVklqgOU5eQA3fNa8&gmla=AERr9JH1-xeY46gUD90oNmNm4Vsy22XD5xrSjyHGtdqGmCzY7vFVrY-hAwiTGZDrJItXwbYGCv8tT5DHJ2KGusNrXF52r4jlBAusI1T99QM&sciund=5445557481237407045
 
     - icon: orcid
       text: ORCID
-      href: INSERT_ORCID_URL
+      href: https://orcid.org/0000-0001-9177-1780
 
     - icon: github
       text: GitHub
       href: https://github.com/FrancescoBarile
 ---
 
-Research Fellow in Statistics  
-Department of Economics, Management and Statistics  
-Università degli Studi di Milano-Bicocca
+<strong style="font-size: 1.1em;">Postdoctoral Research Fellow in Statistics</strong>
 
-My research interests are in Bayesian statistics, Bayesian
-nonparametrics, statistical network analysis, and computational
-statistics.
+[Department of Economics, Management and Statistics (DEMS)](https://www.dems.unimib.it/en)
 
-My research focuses on the development of Bayesian methods for the
-analysis of complex network data, with particular emphasis on
-nonparametric models and scalable computational methods.
+[University of Milano-Bicocca](https://en.unimib.it/)
+
