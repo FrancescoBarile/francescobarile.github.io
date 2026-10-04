@@ -14,111 +14,6 @@
     "text": "University of Milano-Bicocca\nMaster’s degree programmes in International Economics and Global Management\n2024/25, 2025/26, 2026/27\nTeaching activities in inferential statistics, including lectures and practical applications.\n\n\n\nUniversity of Milano-Bicocca\nMSc in Marketing and Global Markets\n2024/25\nTeaching activities in advanced statistical methods.\n\n\n\nUniversity of Milano-Bicocca\nTeaching laboratory activities."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Francesco Barile",
-    "section": "",
-    "text": "Postdoctoral Research Fellow in Statistics\nDepartment of Economics, Management and Statistics (DEMS)\nUniversity of Milano-Bicocca"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About me",
-    "section": "",
-    "text": "I am a Postdoctoral Research Fellow in Statistics at the Department of Economics, Management and Statistics, University of Milano-Bicocca.\nProject: Joint Bayesian Learning of Related Clinical Studies\nProject PI: Prof. Bernardo Nipoti, University of Milano-Bicocca\nResearch position funded by: Fondazione Cariplo"
-  },
-  {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "About me",
-    "section": "",
-    "text": "I am a Research Fellow in Statistics at the Department of Economics, Management and Statistics, University of Milano-Bicocca.\nI received my PhD in Statistics from the University of Milano-Bicocca in February 2025. My doctoral thesis, Advances in Bayesian Methods: Nonparametric Network Modeling and Scalable Computations, focused on Bayesian nonparametric methods for network data and scalable Bayesian computation.\nMy research interests include Bayesian statistics, Bayesian nonparametrics, statistical network analysis, computational statistics, and Bayesian modeling of complex data."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About me",
-    "section": "Education",
-    "text": "Education\n2020 - 2024\nPh.D. in Statistics (XXXVI cycle), University of Milano-Bicocca, Italy.\nSupervisor: Prof. Bernardo Nipoti.\nThesis: Advances in Bayesian Methods: Nonparametric Network Modeling and Scalable Computations.\nThesis repository.\n\n2016 - 2019\nM.Sc. in Finance and Insurance, University of Calabria, Italy.\nSupervisor: Prof. Arturo Leccadito.\nThesis: Estimating Stochastic Models for Commodity Futures.\n2012 - 2015\nB.Sc. in Statistics for Business and Insurance, University of Calabria, Italy.\nSupervisor: Prof. Agostino Tarsitano.\nThesis: Wilcoxon Test: Applications in the Medical-Pharmaceutical Field."
-  },
-  {
-    "objectID": "about.html#academic-positions",
-    "href": "about.html#academic-positions",
-    "title": "About me",
-    "section": "Academic positions",
-    "text": "Academic positions\n\nResearch Fellow in Statistics\nUniversity of Milano-Bicocca\n2025–present\nResearch on Bayesian methods for related clinical studies and complex data."
-  },
-  {
-    "objectID": "about.html#research-visits",
-    "href": "about.html#research-visits",
-    "title": "About me",
-    "section": "Research Visits",
-    "text": "Research Visits\nNov 2023 - Aug 2024\nVisiting Researcher, Lancaster University, Lancaster, United Kingdom.\nSupervisor: Prof. Christopher Nemeth.\nAug 2018 - Dec 2018\nVisiting Graduate Student (Research Only), University of Western Ontario, London, Canada.\nSupervisor: Prof. Rogemar Mamon."
-  },
-  {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
-    "title": "About me",
-    "section": "Research interests",
-    "text": "Research interests\n\nBayesian statistics\nBayesian nonparametrics\nStatistical network analysis\nBayesian network models\nComputational statistics\nMixture models\nHigh-dimensional and complex data"
-  },
-  {
-    "objectID": "about.html#teaching",
-    "href": "about.html#teaching",
-    "title": "About me",
-    "section": "Teaching",
-    "text": "Teaching\nI have taught and assisted courses in statistics at the master’s level, including Inferential Statistics and Advanced Statistics, with a particular focus on applications in economics and management."
-  },
-  {
-    "objectID": "about.html#academic-service",
-    "href": "about.html#academic-service",
-    "title": "About me",
-    "section": "Academic service",
-    "text": "Academic service\nI have served as a referee for journals including Computational Statistics & Data Analysis and the IEEE Journal of Biomedical and Health Informatics."
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "You can download my full curriculum vitae in PDF format:\nDownload my CV (PDF)"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research lies at the intersection of Bayesian statistics, Bayesian nonparametrics, network modeling, and computational statistics. I develop flexible Bayesian methods for modeling complex and structured data, with a particular focus on heterogeneous populations, dependent structures, and scalable computational approaches."
-  },
-  {
-    "objectID": "research.html#research-interests",
-    "href": "research.html#research-interests",
-    "title": "Research",
-    "section": "Research Interests",
-    "text": "Research Interests\nBayesian nonparametrics, network modeling, computational statistics, and Bayesian statistics."
-  },
-  {
-    "objectID": "research.html#current-research",
-    "href": "research.html#current-research",
-    "title": "Research",
-    "section": "Current research",
-    "text": "Current research\n\nBayesian modeling of network data\nMy research focuses on Bayesian nonparametric methods for modeling heterogeneous populations of networks. The goal is to develop flexible models that can capture both common structural features and heterogeneity across networks.\nIn this context, I develop Bayesian models based on nonparametric mixture constructions, together with computational methods for posterior inference and applications to real network data.\n\n\nLongitudinal brain network analysis\nI am also working on Bayesian methods for the analysis of longitudinal brain networks, with applications to neurodegenerative diseases.\nThe research aims to model changes in brain network topology over time while accounting for heterogeneity across individuals and avoiding the need to fix the number of network communities in advance."
-  },
-  {
-    "objectID": "research.html#publications",
-    "href": "research.html#publications",
-    "title": "Research",
-    "section": "Publications",
-    "text": "Publications\n\nBayesian Nonparametric Modeling of Heterogeneous Populations of Networks\nFrancesco Barile, Luis E. Lunagómez, Bernardo Nipoti\nBayesian Analysis, 2026.\nThis work develops a Bayesian nonparametric framework for modeling heterogeneous populations of networks. The model provides a flexible representation of network populations while allowing for the identification of representative network structures and patterns of heterogeneity.\nDOI\n\n\nControl Variate-based Stochastic Sampling from the Probability Simplex\nFrancesco Barile, coauthor\nStatistics and Computing.\nThis work develops a variance-reduced stochastic sampling method for probability-simplex distributions, with applications to Bayesian models such as latent Dirichlet allocation and mixed-membership stochastic block models.\narXiv"
-  },
-  {
-    "objectID": "research.html#software",
-    "href": "research.html#software",
-    "title": "Research",
-    "section": "Software",
-    "text": "Software\nI develop computational tools in R and C++ for Bayesian inference and statistical network analysis.\nMy research software and reproducible code are available on GitHub."
-  },
-  {
     "objectID": "pubblications.html",
     "href": "pubblications.html",
     "title": "Publications",
@@ -126,11 +21,11 @@
     "text": "Barile, F., Lunagómez, S., & Nipoti, B. (2025).\nBayesian Nonparametric Modeling of Heterogeneous Populations of Networks.\nBayesian Analysis. Advance Publication. DOI · Code"
   },
   {
-    "objectID": "pubblications.html#journal-articles",
-    "href": "pubblications.html#journal-articles",
+    "objectID": "pubblications.html#peer-reviewed-journal-articles",
+    "href": "pubblications.html#peer-reviewed-journal-articles",
     "title": "Publications",
     "section": "",
-    "text": "Barile, F., Lunagómez, S., & Nipoti, B. (2026).\nBayesian Nonparametric Modeling of Heterogeneous Populations of Networks.\nBayesian Analysis. Advance Publication.\nDOI · Code"
+    "text": "Barile, F., Lunagómez, S., & Nipoti, B. (2025).\nBayesian Nonparametric Modeling of Heterogeneous Populations of Networks.\nBayesian Analysis. Advance Publication. DOI · Code"
   },
   {
     "objectID": "pubblications.html#conference-proceedings",
@@ -147,18 +42,53 @@
     "text": "Manuscripts Under Review\nBarile, F. & Nemeth, C. (2024).\nControl Variate-based Stochastic Sampling from the Probability Simplex. arXiv · Code\nBarile, F., Capozio, S. & Nipoti, B. (2026).\nEfficient Bayesian Inference for Multiple Network Data. arXiv · Code"
   },
   {
-    "objectID": "pubblications.html#referred-journal-articles",
-    "href": "pubblications.html#referred-journal-articles",
-    "title": "Publications",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "Barile, F., Lunagómez, S., & Nipoti, B. (2026).\nBayesian Nonparametric Modeling of Heterogeneous Populations of Networks.\nBayesian Analysis. Advance Publication.\nDOI · Code"
+    "text": "You can download my full curriculum vitae in PDF format:\nDownload my CV (PDF)"
   },
   {
-    "objectID": "pubblications.html#peer-reviewed-journal-articles",
-    "href": "pubblications.html#peer-reviewed-journal-articles",
-    "title": "Publications",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
     "section": "",
-    "text": "Barile, F., Lunagómez, S., & Nipoti, B. (2025).\nBayesian Nonparametric Modeling of Heterogeneous Populations of Networks.\nBayesian Analysis. Advance Publication. DOI · Code"
+    "text": "I am a Postdoctoral Research Fellow in Statistics at the Department of Economics, Management and Statistics, University of Milano-Bicocca.\nProject: Joint Bayesian Learning of Related Clinical Studies\nProject PI: Prof. Bernardo Nipoti, University of Milano-Bicocca\nResearch position funded by: Fondazione Cariplo"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About me",
+    "section": "Education",
+    "text": "Education\n2020 - 2024\nPh.D. in Statistics (XXXVI cycle), University of Milano-Bicocca, Italy.\nSupervisor: Prof. Bernardo Nipoti.\nThesis: Advances in Bayesian Methods: Nonparametric Network Modeling and Scalable Computations.\nThesis repository.\n\n2016 - 2019\nM.Sc. in Finance and Insurance, University of Calabria, Italy.\nSupervisor: Prof. Arturo Leccadito.\nThesis: Estimating Stochastic Models for Commodity Futures.\n2012 - 2015\nB.Sc. in Statistics for Business and Insurance, University of Calabria, Italy.\nSupervisor: Prof. Agostino Tarsitano.\nThesis: Wilcoxon Test: Applications in the Medical-Pharmaceutical Field."
+  },
+  {
+    "objectID": "about.html#research-visits",
+    "href": "about.html#research-visits",
+    "title": "About me",
+    "section": "Research Visits",
+    "text": "Research Visits\nNov 2023 - Aug 2024\nVisiting Researcher, Lancaster University, Lancaster, United Kingdom.\nSupervisor: Prof. Christopher Nemeth.\nAug 2018 - Dec 2018\nVisiting Graduate Student (Research Only), University of Western Ontario, London, Canada.\nSupervisor: Prof. Rogemar Mamon."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Francesco Barile",
+    "section": "",
+    "text": "Postdoctoral Research Fellow in Statistics\nDepartment of Economics, Management and Statistics (DEMS)\nUniversity of Milano-Bicocca"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research lies at the intersection of Bayesian statistics, Bayesian nonparametrics, network modeling, and computational statistics. I develop flexible Bayesian methods for modeling complex and structured data, with a particular focus on heterogeneous populations, dependent structures, and scalable computational approaches."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "Research Interests",
+    "text": "Research Interests\nBayesian nonparametrics, network modeling, computational statistics, and Bayesian statistics."
   },
   {
     "objectID": "research.html#ongoing-research",
