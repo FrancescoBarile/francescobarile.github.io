@@ -23,6 +23,9 @@ jobs:
       - name: Render
         run: quarto render
 
+      - name: Copy Google verification file
+        run: cp googlecd602ff0afac2192.html docs/googlecd602ff0afac2192.html
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
